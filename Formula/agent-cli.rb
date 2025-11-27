@@ -1,4 +1,4 @@
-class Goskills < Formula
+class AgentCli < Formula
   desc "Go DeepResearch Agent CLI"
   homepage "https://github.com/smallnest/goskills"
   version "0.3.0"
